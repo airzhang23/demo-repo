@@ -1,0 +1,62 @@
+ 驱动器 C 中的卷没有标签。
+ 卷的序列号是 2028-CE70
+
+ C:\Program Files 的目录
+
+2022/12/26  14:19    <DIR>          .
+2022/09/22  16:34    <DIR>          7-Zip
+2022/11/22  15:49    <DIR>          Beeftext
+2022/09/27  18:15    <DIR>          BraveSoftware
+2022/12/19  16:03    <DIR>          Calibre2
+2022/12/13  23:25    <DIR>          CCleaner
+2022/11/16  11:58    <DIR>          Common Files
+2022/09/22  17:41    <DIR>          Container
+2022/09/22  16:34    <DIR>          DAUM
+2022/11/28  14:16    <DIR>          DIFX
+2022/12/19  15:33    <DIR>          Docker
+2022/12/14  13:09    <DIR>          dotnet
+2022/09/30  20:21    <DIR>          epson
+2022/09/30  20:22    <DIR>          EpsonNet
+2022/11/17  10:02    <DIR>          Everything
+2022/10/21  16:31    <DIR>          Geany
+2022/12/19  15:41    <DIR>          Git
+2022/12/04  19:28    <DIR>          GitHub CLI
+2022/09/22  17:40    <DIR>          Google
+2022/10/02  17:47    <DIR>          GreenHub
+2022/11/16  11:04    <DIR>          Internet Explorer
+2022/09/22  16:42    <DIR>          Lenovo
+2022/12/22  09:38    <DIR>          Logi
+2022/12/22  09:39    <DIR>          Logitech
+2022/12/21  21:11    <DIR>          Logitech Gaming Software
+2022/10/10  14:23    <DIR>          MacType
+2022/11/16  11:58    <DIR>          Microsoft
+2022/12/15  08:52    <DIR>          Microsoft Office
+2022/09/22  17:28    <DIR>          Microsoft Office 15
+2022/12/15  08:52    <DIR>          Microsoft OneDrive
+2022/09/22  16:56    <DIR>          Microsoft Update Health Tools
+2022/05/07  13:24    <DIR>          ModifiableWindowsApps
+2022/12/19  15:42    <DIR>          Mozilla Firefox
+2022/12/21  22:59    <DIR>          MSBuild
+2022/09/26  19:44    <DIR>          Notepad++
+2022/09/30  12:54    <DIR>          Oracle
+2022/12/26  14:19    <DIR>          PackageManagement
+2022/09/22  17:38    <DIR>          Palo Alto Networks
+2022/12/06  09:53    <DIR>          PowerShell
+2022/12/07  18:10    <DIR>          PowerToys
+2022/11/09  22:01    <DIR>          PuTTY
+2022/12/21  22:59    <DIR>          Reference Assemblies
+2022/09/27  11:20    <DIR>          S3 Browser
+2022/10/02  18:38    <DIR>          ShareX
+2022/10/06  07:40    <DIR>          ueli
+2022/10/02  11:16    <DIR>          VideoLAN
+2022/12/22  22:44    <DIR>          vJoy
+2022/09/22  17:37    <DIR>          Webex
+2022/11/16  12:03    <DIR>          Windows Defender
+2022/12/16  17:19    <DIR>          Windows Defender Advanced Threat Protection
+2022/12/16  17:19    <DIR>          Windows Mail
+2022/11/16  11:21    <DIR>          Windows Media Player
+2022/11/16  12:03    <DIR>          Windows NT
+2022/11/16  11:04    <DIR>          Windows Photo Viewer
+2022/12/26  14:18    <DIR>          WindowsPowerShell
+               0 个文件              0 字节
+              55 个目录 161,350,651,904 可用字节
